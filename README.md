@@ -1,1 +1,3 @@
-# Py-Assignment-3
+# Py-Assignment-3.1
+
+calculate factorial using function
